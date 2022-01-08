@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @bitw41ker
-- 👀 I’m interested in computers, software and game development.
-- 🌱 I’m currently learning computer science, computer graphics technology and mathematics.
-- 💞️ I’m looking to collaborate on game development projects.
+- 👀 I’m interested in computers and software.
+- 🌱 I’m currently learning computer science and web development.
+- 💞️ I’m looking to collaborate on web and game development projects.
 - 📫 How to reach me: bitw41ker@gmail.com
 
 <!---
